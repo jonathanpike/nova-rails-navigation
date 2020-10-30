@@ -5,6 +5,7 @@
     "description": "Navigate quickly between your rails files",
     "version": "0.1",
     "categories": ["commands"],
+    "repository": "https://github.com/jonathanpike/nova-rails-navigation",
     
     "main": "main.js",
     
