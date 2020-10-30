@@ -6,6 +6,7 @@
     "version": "0.1",
     "categories": ["commands"],
     "repository": "https://github.com/jonathanpike/nova-rails-navigation",
+    "bugs": "https://github.com/jonathanpike/nova-rails-navigation/issues",
     
     "main": "main.js",
     
