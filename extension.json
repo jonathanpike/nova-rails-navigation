@@ -1,0 +1,27 @@
+{
+    "identifier": "jonathanpike.RailsNavigation",
+    "name": "Rails Navigation",
+    "organization": "Jonathan Pike",
+    "description": "Navigate quickly between your rails files",
+    "version": "0.1",
+    "categories": ["commands"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onLanguage:ruby"
+    ],
+    
+    "entitlements": {
+        "filesystem": "readonly"
+    },
+    
+    "commands": {
+        "command-palette": [
+            {
+                "title": "Open Alternate File",
+                "command": "rails-navigation.openAlternateFile"
+            }
+        ]
+    }
+}
